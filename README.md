@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Quah Zhen Yee</h1>
-<h3 align="center">Explorer in computer science</h3>
+<h1 align="left">Hi 👋, I'm Quah Zhen Yee</h1>
+<h3 align="left">Explorer in computer science</h3>
 
+<h1 align="left">About Me </h1>
 - 🌱 I’m currently studying **Bachelor in Computer Science(Networking and Security)**
 
 - 👨‍💻 My linked link [https://www.linkedin.com/in/quah-zhen-yee-730446347/](https://www.linkedin.com/in/quah-zhen-yee-730446347/)
