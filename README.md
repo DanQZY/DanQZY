@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **quah@graduate.utm.my**
 
-- study [c++,phyton,html](c++,phyton,html)
+- currently study **c++, phyton, html** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
