@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Quah Zhen Yee</h1>
-<h3 align="center">Explorer in computer science</h3>
+<h1 align="left">Hi 👋, I'm Quah Zhen Yee</h1>
+<h3 align="left">Explorer in computer science</h3>
 
 - 🌱 I’m currently studying **Bachelor in Computer Science(Networking and Security)**
 
