@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 👨‍💻 My linked link [https://www.linkedin.com/in/quah-zhen-yee-730446347/](https://www.linkedin.com/in/quah-zhen-yee-730446347/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
