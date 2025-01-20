@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently studying **Bachelor in Computer Science(Networking and Security)**
 
-- 👨‍💻 My linked link [https://www.linkedin.com/in/quah-zhen-yee-730446347/](https://www.linkedin.com/in/quah-zhen-yee-730446347/)
+- I'm interest in  **cybersecurity,AI,robotic**
 
-- 📫 How to reach me **quah@graduate.utm.my**
+- Hope to learn a lot from github
 
-- currently study **c++, phyton, html** 
+- Currently study **c++, phyton, html** 
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
