@@ -11,8 +11,11 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
+  
   - 👨‍💻 My linked link [https://www.linkedin.com/in/quah-zhen-yee-730446347/]
+  
   - 👨‍💻 My github link [https://github.com/DanQZY](https://github.com/DanQZY)
+    
   - 👨‍💻 My gmail link  **quah@graduate.utm.my**
 </p>
 
