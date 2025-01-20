@@ -4,7 +4,7 @@
 <h1 align="left">About Me </h1>
 - 🌱 I’m currently studying **Bachelor in Computer Science(Networking and Security)**
 
-- 👨‍💻 My linked link [https://www.linkedin.com/in/quah-zhen-yee-730446347/](https://www.linkedin.com/in/quah-zhen-yee-730446347/)
+- 👨‍💻 My LINKED link [https://www.linkedin.com/in/quah-zhen-yee-730446347/](https://www.linkedin.com/in/quah-zhen-yee-730446347/)
 
 - 📫 How to reach me **quah@graduate.utm.my**
 
